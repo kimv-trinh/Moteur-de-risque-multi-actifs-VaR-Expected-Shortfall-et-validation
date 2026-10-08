@@ -3,7 +3,8 @@ Notebook de mesure du risque de marché d'un portefeuille multi-actifs. Il estim
 
 # Dépendances
 pip install numpy pandas scipy matplotlib yfinance arch
-Utilisation
+
+# Utilisation
 Ouvrir Risk_Engine.ipynb dans Jupyter et exécuter les cellules dans l'ordre. Les données de marché sont téléchargées automatiquement via yfinance (aucune clé API requise).
 
 # Contenu
