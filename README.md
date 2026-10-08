@@ -1,5 +1,4 @@
-# Risk-Engine
-Moteur de risque multi-actifs (VaR / Expected Shortfall)
+# Moteur de risque multi-actifs (VaR / Expected Shortfall)
 Notebook de mesure du risque de marché d'un portefeuille multi-actifs. Il estime la VaR et l'Expected Shortfall par trois méthodes (paramétrique, historique, Monte-Carlo), décompose le risque par actif, valide le modèle par backtesting (Kupiec, Christoffersen), le rend conditionnel (EWMA, GARCH-FHS) et le soumet à des scénarios de stress.
 
 # Dépendances
